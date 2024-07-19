@@ -1,6 +1,6 @@
 # Alcohol-and-Life-Expectancy-Project
 
-**Summary**: We want to see if alcohol consumption and/or income affects life expectancy.
+**Summary**: An exploratory data analysis on life expectancy across the world and investigation on how income or habits like alcohol consuming may affect it. Should we ban these habits or should we try to improve the socioeconomic development of the people?
 
 **dataset link**: https://www.kaggle.com/datasets/thedevastator/relationship-between-alcohol-consumption-and-lif
 
